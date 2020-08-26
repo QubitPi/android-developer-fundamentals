@@ -1,3 +1,5 @@
+[![License Badge](https://img.shields.io/badge/License-Apache%202.0-orange.svg?style=for-the-badge) ](https://www.apache.org/licenses/LICENSE-2.0)
+
 # Yor First interactive UI
 
 This sub-project is the "first-android" app for those who have never been programming Android in Java. As you go through
@@ -450,3 +452,8 @@ provides an automatic way to create those methods.
    ``com.github.qubitpi.hellotoast``, and then double-click ``MainActivity``. The code editor appears with the code in
    ``MainActivity``. Modify the code so that it looks like the one shown
    [here](./app/src/main/java/com/github/qubitpi/hellotoast/MainActivity.java)
+
+# License
+
+The use and distribution terms for this software are covered by the Apache License, Version 2.0
+( http://www.apache.org/licenses/LICENSE-2.0.html ).
